@@ -9,7 +9,7 @@ I'm a passionate Machine Learning and Data Engineer from Moscow, Russia, with a 
 - **Programming Languages:** Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Keras, Spacy, NLTK, Pymorphy), C++
 - **Machine Learning Models:** CatBoost, XGBoost, LightGBM, RandomForest
 - **Databases:** MS SQL, PostgreSQL, Oracle, MongoDB, SQLite
-- **Data Engineering Tools:** Apache Airflow, PySpark, Apache Superset, Apache Kafka, Yandex Cloud
+- **Data Engineering Tools:** Apache Airflow, PySpark, Apache Superset, Apache Kafka, Yandex Cloud, BI-system
 - **Mathematics:** Mathematical statistics, optimization theory
 - **Languages:** English (Intermediate)
 
